@@ -1,1 +1,4 @@
 .idea/
+
+# ignore python cache
+__pycache__/
